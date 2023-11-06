@@ -6,7 +6,8 @@
     "esp_camera.h": "c",
     "freertos.h": "c",
     "sdkconfig.h": "c",
-    "gpio.h": "c"
+    "gpio.h": "c",
+    "camera.h": "c"
   },
   "idf.openOcdConfigs": [
     "interface/ftdi/esp32_devkitj_v1.cfg",
